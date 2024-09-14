@@ -1,1 +1,2 @@
 # News
+include 'config.php';
